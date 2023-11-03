@@ -1,0 +1,5 @@
+dlib
+pygame
+rpi_ws281x
+transformers==4.5.0
+tkinter
