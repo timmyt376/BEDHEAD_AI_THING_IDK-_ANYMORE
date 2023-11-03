@@ -30,6 +30,3 @@ After starting the application, the system will be ready to receive voice comman
 - `device_communication.py`: Communicates with other smart devices and TVs.
 - `chatbot.py`: Processes user input and responds to commands.
 - `gui_handler.py`: Manages the graphical user interface.
-
-## Contributing
-Feel free to fork the repository, make improvements, and submit a pull request. We welcome contributions to make the smart headboard project even better!
